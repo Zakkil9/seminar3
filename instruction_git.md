@@ -23,4 +23,22 @@
 
  Чтобы зафиксировать изменения , добавленные в индекс нужно ввести команду :
 
-    git commit   
+    git commit  
+
+
+    git status
+
+    git commit -m "сообщение"
+    git commit -a
+    git commit -am "сообщение"
+
+    git log
+    git log --oneline
+    git log --all
+    git log --all --oneline
+
+    git diff
+    git diff "hash1" "hash2"
+
+    git checkout "hash"
+    git checkout master
