@@ -74,3 +74,5 @@ cовершит коммит, автоматически индексируя и
     
     git checkout "hash"
     git checkout master
+
+## Ветвления
